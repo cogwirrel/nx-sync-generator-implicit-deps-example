@@ -1,0 +1,8 @@
+{
+  "name": "@sync-generator-implicit-deps/infra",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "packages/infra/src",
+  "projectType": "application",
+  "tags": [],
+  "implicitDependencies": ["@sync-generator-implicit-deps/website"]
+}
